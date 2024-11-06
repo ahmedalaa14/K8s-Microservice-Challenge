@@ -1,6 +1,6 @@
 # k8s-microserices-challenge
 
-![TASK](https://github.com/ahmedalaa14/K8s-Microservice-Challenge/images/kubernetes-challenge.png)
+![TASK](https://github.com/ahmedalaa14/K8s-Microservice-Challenge/blob/main/images/kubernetes-challenge.png)
 ## Steps 
 1. Create two applications. In this example, Node.js applications are used.
 2. Dockerize these two applications.
